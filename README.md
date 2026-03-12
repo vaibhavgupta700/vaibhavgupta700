@@ -1,152 +1,193 @@
-<h1 align="center">Hi 👋, I'm Vaibhav Gupta</h1>
-<h3 align="center">📊 Aspiring Data Analyst | SQL | Python | Power BI | Data Visualization</h3>
+<!-- Animated Header Banner -->
 
 <p align="center">
-Turning raw data into meaningful insights to support data-driven decisions.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Vaibhav%20Gupta&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<!-- Typing Animation -->
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;SQL+%7C+Python+%7C+Power+BI;Data+Visualization+Specialist;Turning+Data+Into+Insights"/>
 </p>
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
 🎓 Graduate in **B.Voc Software Development & E-Governance (2025)**  
 🏫 National P.G. College, Lucknow | Lucknow University  
 
-💡 Passionate about **Data Analytics, Data Visualization, and Business Intelligence**
+💡 Passionate about **Data Analytics, Business Intelligence, and Visualization**
 
-📊 I enjoy transforming **raw data → insights → business decisions**
+📊 I enjoy converting  
 
-🌱 Currently improving skills in:
+**Raw Data → Insights → Business Decisions**
+
+🌱 Currently improving:
 
 - Advanced **SQL**
 - **Python for Data Analysis**
-- **Power BI Dashboard Development**
+- **Power BI Dashboards**
 - **Data Cleaning & Visualization**
 
-🎯 Career Goal:  
-To work as an **Entry-Level Data Analyst** and help organizations make **data-driven decisions**.
+🎯 Goal  
+Become a **Data Analyst and help companies make data-driven decisions**
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 Tech Stack
 
-### 📊 Data Analytics Tools
+### 📊 Data Analytics
 
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=python,r,mysql"/>
 
-### 💻 Development Skills
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black"/>
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+</p>
 
 ---
 
-### 🗄️ Databases
+### 💻 Development
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=html,css"/>
 
-### ⚙️ Tools & Platforms
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![MS Office](https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+</p>
 
 ---
 
-## 📂 Projects
+### 🗄 Databases
 
-### 📱 Android Applications
-Developed Android apps using **Android Studio**, implementing UI design and backend logic.
+<p align="center">
 
-### 🌐 Front-End Web Development
-Built responsive web pages using:
+<img src="https://skillicons.dev/icons?i=mongodb"/>
 
-- HTML
-- CSS
-- UI Design Principles
-
-### 📊 Data Analytics Projects (Coming Soon)
-
-- Sales Dashboard using **Power BI**
-- Data Cleaning using **Python**
-- SQL Data Analysis Projects
-- Business Insights Dashboard
+</p>
 
 ---
 
-## 📜 Certifications
+### ⚙ Tools
 
-🏆 **IBM SkillsBuild**
-- Mastering Data with Machine Learning (CSRBOX)
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,windows,github"/>
+
+</p>
+
+---
+
+# 📂 Projects
+
+### 📊 Power BI Dashboard
+
+✔ Sales Data Analysis  
+✔ Regional Sales Insights  
+✔ Product Performance Visualization
+
+---
+
+### 🐍 Python Data Analysis
+
+✔ Data Cleaning using Pandas  
+✔ Data Transformation  
+✔ Exploratory Data Analysis
+
+---
+
+### 🗄 SQL Data Analysis
+
+✔ Complex SQL Queries  
+✔ Business Data Analysis  
+✔ Database Insights
+
+---
+
+# 📜 Certifications
+
+🏆 **IBM SkillsBuild** – Mastering Data with Machine Learning  
 
 🏆 **TATA Forage**
-- Data Visualisation: Empowering Business with Effective Insights
-- GenAI Powered Data Analytics Job Simulation
+- Data Visualization
+- GenAI Data Analytics Simulation
 
 🏆 **PwC Forage**
 - Power BI Job Simulation
 
 🏆 **Deloitte Forage**
-- Data Analytics Job Simulation
-
-🏆 **TCS iON**
-- Career Edge – Young Professional
+- Data Analytics Simulation
 
 🏆 **Cisco Networking Academy**
 - Introduction to Data Science
 
-🏆 **Power BI Micro Course**
-- 30 Days Power BI Course (Satish Dhawale)
+🏆 **TCS iON**
+- Career Edge Young Professional
 
 ---
 
-## 📊 Microsoft Learn Badges
+# 📊 Microsoft Learn Badges
 
-✔ Get Started Building with Power BI  
-✔ Discover Data Analysis  
-✔ Introduction to End-to-End Analytics using Microsoft Fabric  
-✔ Get Started with Copilot in Power BI  
-✔ Get Data in Power BI  
-✔ Clean, Transform, and Load Data in Power BI  
-✔ Choose a Power BI Model Framework  
-✔ Understand Concepts of Data Analytics  
-✔ Get Started with Microsoft Data Analytics  
-✔ Prepare Data for Analysis with Power BI  
+✔ Power BI Fundamentals  
+✔ Data Analytics Concepts  
+✔ Microsoft Fabric Analytics  
+✔ Copilot in Power BI  
+✔ Data Transformation in Power BI
 
 ---
 
-## 📈 GitHub Stats
+# 📈 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vaibhavgupta700&show_icons=true&theme=tokyonight"/>
-</p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavgupta700&layout=compact&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=vaibhavgupta700&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavgupta700&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🔥 Contribution Graph
 
-📧 Email: **toguptav@gmail.com**
+<p align="center">
 
-💼 LinkedIn  
-https://linkedin.com/in/vaibhav-gupta-2a861b375
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhavgupta700&theme=tokyo-night"/>
 
-💻 GitHub  
-https://github.com/vaibhavgupta700
+</p>
 
 ---
 
-## 📍 Location
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:toguptav@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://linkedin.com/in/vaibhav-gupta-2a861b375">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/vaibhavgupta700">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+# 📍 Location
 
 📍 Barabanki, Uttar Pradesh, India
 
+---
+
+
+<!-- Footer Animation -->
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
+</p>
