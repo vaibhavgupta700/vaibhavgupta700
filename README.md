@@ -150,8 +150,3 @@ https://github.com/vaibhavgupta700
 
 📍 Barabanki, Uttar Pradesh, India
 
----
-
-⭐ *“Without data, you're just another person with an opinion.”*
-
-📊 — W. Edwards Deming
