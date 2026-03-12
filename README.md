@@ -143,7 +143,7 @@ Become a **Data Analyst and help companies make data-driven decisions**
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=vaibhavgupta700&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavgupta700&layout=compact&theme=tokyonight&hide_border=true"/>
+
 
 </p>
 
