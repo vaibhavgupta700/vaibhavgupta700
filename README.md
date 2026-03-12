@@ -41,20 +41,14 @@ Become a **Data Analyst and help companies make data-driven decisions**
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python" height="60"/>
-<b>Python</b>
-<img src="https://skillicons.dev/icons?i=r" height="60"/>
-<img src="https://skillicons.dev/icons?i=mysql" height="60"/>
+<img src="https://skillicons.dev/icons?i=python,r,mysql"/>
 
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black"/>
 
 </p>
 
-<p align="center">
+---
 
-<b>Python</b> • <b>R</b> • <b>SQL (MySQL)</b> • <b>Power BI</b>
-
-</p>
 
 ### 💻 Development
 
