@@ -41,7 +41,8 @@ Become a **Data Analyst and help companies make data-driven decisions**
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python" height="60"/><b>Python</b>
+<img src="https://skillicons.dev/icons?i=python" height="60"/>
+<b>Python</b>
 <img src="https://skillicons.dev/icons?i=r" height="60"/>
 <img src="https://skillicons.dev/icons?i=mysql" height="60"/>
 
