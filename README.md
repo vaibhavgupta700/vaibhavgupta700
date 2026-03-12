@@ -34,27 +34,31 @@
 Become a **Data Analyst and help companies make data-driven decisions**
 
 ---
-
 # 🚀 Tech Stack
 
 ### 📊 Data Analytics
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,r,mysql"/>
-
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black"/>
+| Icon | Tool |
+|-----|-----|
+| <img src="https://skillicons.dev/icons?i=python" width="40"/> | **Python** |
+| <img src="https://skillicons.dev/icons?i=r" width="40"/> | **R** |
+| <img src="https://skillicons.dev/icons?i=mysql" width="40"/> | **SQL (MySQL)** |
+| <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=Power%20BI&logoColor=black"/> | **Power BI** |
 
 </p>
 
 ---
 
-
 ### 💻 Development
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css"/>
+| Icon | Tool |
+|-----|-----|
+| <img src="https://skillicons.dev/icons?i=html" width="40"/> | **HTML** |
+| <img src="https://skillicons.dev/icons?i=css" width="40"/> | **CSS** |
 
 </p>
 
@@ -64,21 +68,33 @@ Become a **Data Analyst and help companies make data-driven decisions**
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=mongodb"/>
+| Icon | Tool |
+|-----|-----|
+| <img src="https://skillicons.dev/icons?i=mongodb" width="40"/> | **MongoDB** |
 
 </p>
 
 ---
 
-### ⚙ Tools
+### ⚙ Tools & Platforms
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,windows,github"/>
+| Icon | Tool |
+|-----|-----|
+| <img src="https://skillicons.dev/icons?i=linux" width="40"/> | **Linux** |
+| <img src="https://skillicons.dev/icons?i=windows" width="40"/> | **Windows** |
+| <img src="https://skillicons.dev/icons?i=github" width="40"/> | **GitHub** |
 
 </p>
 
 ---
+
+
+
+
+
+
 
 # 📂 Projects
 
